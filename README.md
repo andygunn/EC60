@@ -1,6 +1,6 @@
-# EC60
+# EC65
 
-Open source universal 60% Electrostatic Capacitive PCB.
+Open source universal 65% Electrostatic Capacitive PCB, derived from Cipulot/EC60.
 
 ## Introduction
 
@@ -13,7 +13,7 @@ The supported layout options are the following:
 Mapping is purely for demonstration purposes, remapping of all keys is supported.
 ## Technical information
 
-- Layout size: 60% (GH60 outline and mounting points, see pictures below)
+- Layout size: 65% (generic outline, see pictures below)
 - Compatible switches: EC switches (Topre and NIZ)
 - Microcontroller: STM32F401
 - Connector:
